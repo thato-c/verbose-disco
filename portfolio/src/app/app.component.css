@@ -3,3 +3,11 @@
     width: 100vw;
     height: 100vh;
 }
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 20px;
+}
